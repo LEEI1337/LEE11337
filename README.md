@@ -63,15 +63,6 @@ Building **Enterprise-Grade Privacy-First Solutions** from Austria 🇦🇹
   
   Expired domain discovery & analysis system (16 Docker services, 100% local, privacy-first)
 
-### 🏪 E-Commerce
-- **[Ruf-Shop](https://github.com/LEEI1337/Ruf-Shop)**
-  
-  E-Commerce automation & management tooling
-  
-- **[Ruf-Odoo-WooComm](https://github.com/LEEI1337/Ruf-Odoo-WooComm)**
-  
-  Odoo-WooCommerce integration bridge
-
 ### 🔌 IoT & Embedded Systems
 - **[phantom-key](https://github.com/LEEI1337/phantom-key)** ⭐
   
